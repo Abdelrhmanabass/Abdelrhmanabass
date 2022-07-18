@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdelrhman Osama
-- 👀 I’m interested in cyber security and programming .
-- 🌱 I’m currently learning cyber security .
+- 👀 I’m interested in mobile development and programming .
+- 🌱 I’m currently learning Flutter .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach me on bobaosama2002@gmail.com
 
 <!---
 Abdelrhmanabass/Abdelrhmanabass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
